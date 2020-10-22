@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Nguyen;Thien;;;
+FN: Thien  Nguyen 
+ORG:TrilliumWest Real Estate Brokerage;
+TITLE:Real Estate Broker
+EMAIL;type=INTERNET;type=WORK;type=pref:tnguyen@trilliumwest.com
+TEL;type=WORK;type=VOICE:416-454-9933
+item1.ADR;type=WORK;type=pref:;;240 Duke St. W\nKitchener \, ON;;;N2H3X6;Canada
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:thien.ca
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
